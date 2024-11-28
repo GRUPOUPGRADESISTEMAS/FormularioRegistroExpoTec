@@ -5,7 +5,7 @@ import {MatInputModule} from '@angular/material/input';
 import {MatAutocompleteModule} from '@angular/material/autocomplete';
 import { AsyncPipe } from '@angular/common';
 import { empresas } from '../interfaces/Empresas';
-import { Observable, startWith } from 'rxjs';
+import { filter, map, Observable, startWith } from 'rxjs';
 import { __values } from 'tslib';
 
 @Component({
@@ -22,11 +22,26 @@ export class FormularioRegistroComponent {
     
     
     ngOnInit(){
-          
-           
+       this.filtrado = this.empresas.valueChanges.pipe(
+        startWith(''),
+        map(value => {
+          const name = typeof value === 'string' ? value: value?.name;
+          return name ? this._filter(name as string): this.datosEmpresas.slice()
+        })
+       )
          
     }
 
+    displayFn(user: empresas): string {
+       return user && user.name ? user.name: '';
+    }
+
+    private _filter(name: string): empresas[]{
+      const filterValue = name.toLowerCase();
+      return this.datosEmpresas.filter(option => {
+        option.name.toLowerCase().includes(filterValue)
+      })
+    }
 
 
 }
