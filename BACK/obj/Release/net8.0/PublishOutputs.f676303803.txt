@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\seguimiento_expotec.exe
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\appsettings.Development.json
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\appsettings.json
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\seguimiento_expotec.dll
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\seguimiento_expotec.deps.json
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\seguimiento_expotec.runtimeconfig.json
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\seguimiento_expotec.pdb
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\DnsClient.dll
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\MongoDB.Bson.dll
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\MongoDB.Driver.dll
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\SharpCompress.dll
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\Snappier.dll
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\jlucasb\workspace\seguimiento_expotec\FormularioRegistroExpoTec\BACK\publish\ZstdSharp.dll

@@ -1,9 +1,44 @@
 ﻿using MongoDB.Driver;
+using seguimiento_expotec.Models;
 
 namespace seguimiento_expotec.Connection
 {
     public class ConnectionDB
     {
+        private readonly IMongoDatabase _database;
+
+        public ConnectionDB()
+        {
+            _database = Connect();
+        }
+
+        // Colección de BusinessExecutives
+        public IMongoCollection<BusinessExecutivesModel> BusinessExecutivesCollection
+        {
+            get
+            {
+                return _database.GetCollection<BusinessExecutivesModel>("business_executives");
+            }
+        }
+
+        // Colección de ConfirmationCollection
+        public IMongoCollection<ConfirmationModel> ConfirmationCollection
+        {
+            get
+            {
+                return _database.GetCollection<ConfirmationModel>("confirmations");
+            }
+        }
+
+        // Colección de Contactos
+        public IMongoCollection<ContactModel> ContactCollection
+        {
+            get
+            {
+                return _database.GetCollection<ContactModel>("contacts");
+            }
+        }
+
         public IMongoDatabase Connect()
         {
             try

@@ -1040,11 +1040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\jlucasb\\workspace\\expotec_invitados\\backend\\seguimiento_expotec\\seguimiento_expotec.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\jlucasb\\workspace\\seguimiento_expotec\\FormularioRegistroExpoTec\\BACK\\seguimiento_expotec.csproj",
       "projectName": "seguimiento_expotec",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\jlucasb\\workspace\\expotec_invitados\\backend\\seguimiento_expotec\\seguimiento_expotec.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\jlucasb\\workspace\\seguimiento_expotec\\FormularioRegistroExpoTec\\BACK\\seguimiento_expotec.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\jlucasb\\workspace\\expotec_invitados\\backend\\seguimiento_expotec\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\jlucasb\\workspace\\seguimiento_expotec\\FormularioRegistroExpoTec\\BACK\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

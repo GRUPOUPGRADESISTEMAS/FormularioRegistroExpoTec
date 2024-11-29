@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OfISUsuJRL0=",
+  "dgSpecHash": "n0dSwRLz49E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\jlucasb\\workspace\\expotec_invitados\\backend\\seguimiento_expotec\\seguimiento_expotec.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\jlucasb\\workspace\\seguimiento_expotec\\FormularioRegistroExpoTec\\BACK\\seguimiento_expotec.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
